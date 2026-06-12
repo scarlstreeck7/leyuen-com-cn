@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://scarlstreeck7.github.io/leyuen-com-cn/sitemap.xml
